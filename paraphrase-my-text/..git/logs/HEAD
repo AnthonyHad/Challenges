@@ -1,0 +1,15 @@
+0000000000000000000000000000000000000000 cf0a6be136057411082cb12e949760378aa7e1b8 Anthony Hadwan <anthony.hadwan@hec.edu> 1620923507 +0200	commit (initial): Initial commit with minimal template from https://github.com/lewagon/rails-templates
+cf0a6be136057411082cb12e949760378aa7e1b8 a79bf0ac2aac6bf905ecc2743443ee584efd5d9b Anthony Hadwan <anthony.hadwan@hec.edu> 1620924220 +0200	commit: initial version of application pushed
+a79bf0ac2aac6bf905ecc2743443ee584efd5d9b 67f75e52cb69ae7af464300141c259f44f9142de Anthony Hadwan <anthony.hadwan@hec.edu> 1620931506 +0200	commit: Added styling to the tool
+67f75e52cb69ae7af464300141c259f44f9142de 541b55ae77ec9c9a14d6bf20a9a9bc3b7cad25a6 Anthony Hadwan <anthony.hadwan@hec.edu> 1620933135 +0200	commit: added addtional styling and some text processing
+541b55ae77ec9c9a14d6bf20a9a9bc3b7cad25a6 b50f53b66e5e6a4f2832f52f8a30158a2ee7fb32 Anthony Hadwan <anthony.hadwan@hec.edu> 1620933817 +0200	commit: Added additional styling
+b50f53b66e5e6a4f2832f52f8a30158a2ee7fb32 223b3195e27f02b8caa30cfd79af1703df23a16e Anthony Hadwan <anthony.hadwan@hec.edu> 1620934468 +0200	commit: removed a gem
+223b3195e27f02b8caa30cfd79af1703df23a16e f296ec5f6465b1b556ed7922cb69564252ef8656 Anthony Hadwan <anthony.hadwan@hec.edu> 1620934559 +0200	commit: fixes
+f296ec5f6465b1b556ed7922cb69564252ef8656 c7bf965b7a95f5e2bf2cb49bddb42c9231203f05 Anthony Hadwan <anthony.hadwan@hec.edu> 1620935442 +0200	commit: fixes
+c7bf965b7a95f5e2bf2cb49bddb42c9231203f05 e97c284124cc46581188fa66f4e81da39d451e5b Anthony Hadwan <anthony.hadwan@hec.edu> 1620936177 +0200	commit: styling fixes
+e97c284124cc46581188fa66f4e81da39d451e5b 63e5f2096036b7c9f06542cf9bf027fe43b030ba Anthony Hadwan <anthony.hadwan@hec.edu> 1620940673 +0200	commit: added notice to the user when a text is deleted or added
+63e5f2096036b7c9f06542cf9bf027fe43b030ba 3b4243910293c36653a2b8bd83fca02ee8c48e29 Anthony Hadwan <anthony.hadwan@hec.edu> 1620940937 +0200	commit: fixes
+3b4243910293c36653a2b8bd83fca02ee8c48e29 36bb2384f601d38d67b01abb536107cade58b05f Anthony Hadwan <anthony.hadwan@hec.edu> 1620941420 +0200	commit: indentation
+36bb2384f601d38d67b01abb536107cade58b05f 6f531058056ede37eebfa0e039a1ed385dddbee9 Anthony Hadwan <anthony.hadwan@hec.edu> 1620941468 +0200	commit: fixes
+6f531058056ede37eebfa0e039a1ed385dddbee9 4f03ccada1d9af7e7fb30bd0ad910c90e77ec219 Anthony Hadwan <anthony.hadwan@hec.edu> 1620974680 +0200	commit: fixes
+4f03ccada1d9af7e7fb30bd0ad910c90e77ec219 ddbde66ca948c12bc3d1dee8a29dec19858260be Anthony Hadwan <anthony.hadwan@hec.edu> 1620975087 +0200	commit: fixes

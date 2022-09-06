@@ -1,0 +1,28 @@
+<div class="main d-flex align-items-center flex-column mt-4">
+  <div class="card d-flex align-items-center flex-column">
+    <div class="title">
+      <h1>Praphrasing Tool 🖌</h1>
+    </div>
+
+    <div class="tool d-flex align-items-center flex-column">
+    <h2>Please input the texts you would like to paraphrase <mark>1 at a time</mark></h2>
+      <%= simple_form_for :paraphrase, url: paraphrase_path, :method => 'get' do |f| %>
+      <div class="d-flex align-items-center flex-column">
+        <%= f.input :text, as: :text, :input_html => { 'rows' => 10}, label: false%>
+        <%= f.button :submit, "Submit", class: "button" %>
+      <% end %>
+      </div> 
+
+      <div class="submit d-flex align-items-center flex-column mt-3">
+      <h2>Click here to see your paraphrased texts 📄</h2>
+      <%= link_to "Done!", show_texts_path, class: "button" %>
+      </div>
+
+      <div class="delete d-flex align-items-center flex-column mt-3">
+      <h2>Click here to delete all the texts ❌</h2>
+      <%= link_to "Delete", delete_texts_path, class: "button" %>
+      </div>
+    </div>
+  </div>
+</div>
+
